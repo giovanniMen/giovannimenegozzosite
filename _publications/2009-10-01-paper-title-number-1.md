@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Paper Title: ViTAS gaming suite: Virtual Therapy Against Stroke"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2015-10-01-ViTAS gaming suite: Virtual Therapy Against Stroke
+excerpt: 'This paper is about virtual hand reahabilitation with Leap Motion'
+date: 2015-10-01
+venue: 'Conference"
+paperurl: 'http://academicpages.github.io/files/ViTAS.pdf'
+citation: 'Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini; <i>Conference Converging Clinical and Engineering Research on Neurorehabilitation II</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about virtual hand reahabilitation with Leap Motion
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/ViTAS.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
