@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/FAIM
 venue: "School of Engineering at the University of Limerick"
-date: 2019-07-24
+date: 2019-26-07
 location: "University of Limerick, Ireland "
 ---
 
