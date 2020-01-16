@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/CRAS
 venue: "Technologies For Computer/Robot Assisted Surgery"
-date: 2019-02-24
+date: 2019-24-04
 location: ", Genoa(IT)"
 ---
 
