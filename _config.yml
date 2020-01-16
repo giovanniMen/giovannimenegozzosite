@@ -56,10 +56,8 @@ author:
   name             : "Giovanni Menegozzo"
   avatar           : "profile.png"
   bio              : "I'm a Ph.D. student of the department of excellence for industry 4.0 in Verona. I aim to introduce advanced compter science topics such as machine learning and causal inference in the context of small and medium manufacturing enterprises. I'm currently working with Altair research lab and Local industries "
-  location         : "Location"
+  location         : "Location [Altair Lab](https://metropolis.scienze.univr.it/)"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -69,20 +67,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "giovanniMen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
