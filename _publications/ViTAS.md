@@ -1,7 +1,7 @@
 ---
 title: "Paper Title: ViTAS gaming suite: Virtual Therapy Against Stroke"
 collection: publications
-permalink: /publication/2015-10-01-ViTAS gaming suite: Virtual Therapy Against Stroke
+permalink: /publication/ViTAS
 excerpt: 'This paper is about virtual hand reahabilitation with Leap Motion'
 date: 2015-10-01
 venue: 'Conference"
@@ -11,4 +11,3 @@ citation: 'Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco,
 This paper is about virtual hand reahabilitation with Leap Motion
 
 [Download paper here](http://academicpages.github.io/files/ViTAS.pdf)
-
