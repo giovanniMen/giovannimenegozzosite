@@ -3,7 +3,7 @@ title: "Paper Title: Automatic process modeling with time delay neural network b
 on low-level data"
 collection: 'publications'
 permalink: '/publication/Procedia'
-excerpt: 'This paper is about virtual hand reahabilitation with Leap Motion'
+excerpt: 'We reproduce an industrial collaborative task with master and slave tecnology and with collaborative robots. We devolop an Automatic Process Model to recognize different phases of the process'
 date: '2019-08-01'
 venue: 'Journal Procedia Manufacturing 2019'
 paperurl: 'https://github.com/giovanniMen/giovannimenegozzosite/blob/master/files/APM_TDNN.pdf'
