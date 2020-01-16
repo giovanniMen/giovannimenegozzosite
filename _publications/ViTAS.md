@@ -9,9 +9,9 @@ paperurl: 'http://academicpages.github.io/files/ViTAS.pdf'
 citation: 'Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini; <i>Conference Converging Clinical and Engineering Research on Neurorehabilitation II</i>.'
 ---
 
-#ViTAS gaming suite: Virtual Therapy Against Stroke
-#Author: Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini
--#Abstract: 
+<h3>ViTAS gaming suite: Virtual Therapy Against Stroke</h3>
+<h3>Author: Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini</h3>
+<h3>Abstract:</h3> 
 Stroke is the leading cause of disability in Western
 Society, and rehabilitation is a fundamental support to ensure the best possible recovery of stroke patients after acute
 disease. To support and enhance conventional therapies we
