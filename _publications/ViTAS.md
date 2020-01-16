@@ -5,13 +5,13 @@ permalink: '/publication/ViTAS'
 excerpt: 'This paper is about virtual hand reahabilitation with Leap Motion'
 date: '2015-10-01'
 venue: 'Conference ICNR 2016'
-paperurl: 'http://academicpages.github.io/files/ViTAS.pdf'
+paperurl: 'https://github.com/giovanniMen/giovannimenegozzosite/blob/master/files/ViTAS.pdf'
 citation: 'Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini; <i>Conference Converging Clinical and Engineering Research on Neurorehabilitation II</i>.'
 ---
 
-<h3>ViTAS gaming suite: Virtual Therapy Against Stroke</h3>
-<h3>Author: Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini</h3>
-<h3>Abstract:</h3> 
+<h4>ViTAS gaming suite: Virtual Therapy Against Stroke</h4>
+<h4>Author: Diego Dall’Alba, Iris Dimbwadyo, Stefano Piazza, Enrico Magnabosco, Giovanni Menegozzo and Paolo Fiorini</h4>
+<h4>Abstract:</h4> 
 Stroke is the leading cause of disability in Western
 Society, and rehabilitation is a fundamental support to ensure the best possible recovery of stroke patients after acute
 disease. To support and enhance conventional therapies we
@@ -26,4 +26,4 @@ system in rehabilitation. We conclude that ViTAS could become
 an essential supplement to standard post-stroke rehabilitation
 
 
-[Download paper here](http://academicpages.github.io/files/ViTAS.pdf)
+[Download paper here](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/files/ViTAS.pdf)
