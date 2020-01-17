@@ -49,11 +49,13 @@ Work experience
 Skills
 ======
 * Virtual reality
-	*O culus rift, leap motion, Unity 3D, Android, C#
+	* Oculus rift, leap motion, Unity 3D, Android, C#
 * Machine Learning
 	* Keras, Pyhon, Tensorflow, Pandas, Matlab...
 * Robotic
 	* Ros, Collaborative Robots
+
+![Skill](https://github.com/giovanniMen/giovannimenegozzosite/edit/master/files/skill.jpg)
 
 Publications
 ======
