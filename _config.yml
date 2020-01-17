@@ -56,7 +56,7 @@ author:
   name             : "Giovanni Menegozzo"
   avatar           : "profile.png"
   bio              : "I'm a Ph.D. student of the department of excellence for industry 4.0 in Verona. I aim to introduce advanced compter science topics such as machine learning and causal inference in the context of small and medium manufacturing enterprises. I'm currently working with [Altair research lab](https://metropolis.scienze.univr.it/) and Local industries "
-  location         : "https://metropolis.scienze.univr.it/"
+  location         : "Verona (IT)"
   employer         :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -65,9 +65,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/giovanniMen"
+  Altair_Lab       : "https://metropolis.scienze.univr.it/"
+  foursquare       : 
+  github           : "giovanniMen"
   google_plus      :
   keybase          :
   instagram        :
