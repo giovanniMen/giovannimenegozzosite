@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Download Complete CV
-======
-[Download](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/files/cv.pdf)
+
+[Download Complete CV](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/files/cv.pdf)
 
 Education
 ======
