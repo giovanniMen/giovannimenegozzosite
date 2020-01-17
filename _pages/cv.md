@@ -55,7 +55,7 @@ Skills
 * Robotic
 	* Ros, Collaborative Robots
 
-![Skill](https://github.com/giovanniMen/giovannimenegozzosite/edit/master/files/skill.jpg)
+![Skill](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/images/skill.jpg)
 
 Publications
 ======
