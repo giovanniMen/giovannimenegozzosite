@@ -55,7 +55,7 @@ Skills
 * Robotic
 	* Ros, Collaborative Robots
 
-![Skill](/images/skill.jpg)
+![Skill](https://raw.githubusercontent.com/giovanniMen/giovannimenegozzosite/master/images/Euler.png)
 
 Publications
 ======
