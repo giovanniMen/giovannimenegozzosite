@@ -49,11 +49,11 @@ Work experience
 Skills
 ======
 * Virtual reality
-	*Oculus rift, leap motion, Unity 3D, Android, C#
+	*O culus rift, leap motion, Unity 3D, Android, C#
 * Machine Learning
-	*Keras, Pyhon, Tensorflow, Pandas, Matlab...
+	* Keras, Pyhon, Tensorflow, Pandas, Matlab...
 * Robotic
-	*Ros, Collaborative Robots
+	* Ros, Collaborative Robots
 
 Publications
 ======
