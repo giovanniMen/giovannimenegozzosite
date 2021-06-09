@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download Complete CV](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/files/cv.pdf)
+[To request Complete CV please write to giovanni.menegozzo@univr.it](giovanni.menegozzo@univr.it)
 
 Education
 ======
@@ -21,7 +21,10 @@ Education
 
 Work experience
 ======
-* June 2019 – Ongoing	Internship
+* March 2020 – Ongoing	
+	* Project-based contract with Mafin.Srl Snack Pellets manufacturing, Padua (IT).
+
+* June 2019 – March 2020 Internship
 	* Intership at Mafin.Srl Snack Pellets manufacturing, Padua (IT).
 	
 * June 2018 - September 2018	Post Lauream Research Fellowship
