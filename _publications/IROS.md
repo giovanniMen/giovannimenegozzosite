@@ -6,7 +6,7 @@ excerpt: 'This paper was presented in the  2020 IEEE/RSJ International Conferenc
 date: '2020-10-24'
 venue: 'Conference IROS 2020  Las Vegas, NV, USA '
 paperurl: 'https://10.1109/IROS45743.2020.9341094.org/'
-citation: 'Marco Bombieri*; Diego Dall'Alba; Sanat Ramesh; Giovanni Menegozzo; Caitlin Schneider; Paolo Fiorini; <i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>.'
+citation: 'Marco Bombieri*, Menegozzo Giovanni, Caitlin Schneider, Sanat Ramesh, Diego Dall’Alba, Paolo Fiorini;<i>2020 IEEE International Conference on Intelligent Robots and Systems (IROS)</i>.'
 ---
 
 <h4>Joints-Space Metrics for Automatic Robotic Surgical Gestures Classification</h4>
