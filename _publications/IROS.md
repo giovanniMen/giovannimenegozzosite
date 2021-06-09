@@ -1,5 +1,5 @@
 ---
-title: "Paper Title: Joints-Space Metrics for Automatic Robotic Surgical Gestures Classification"
+title: 'Paper Title: Joints-Space Metrics for Automatic Robotic Surgical Gestures Classification'
 collection: 'publications'
 permalink: '/publication/IROS'
 excerpt: 'This paper was presented in the  2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) conference and present a series of angular metrics that can be used together with Cartesian-based metrics to better describe different surgical gestures.'
