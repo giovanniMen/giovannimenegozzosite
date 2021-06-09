@@ -8,4 +8,4 @@ date: 2021-05-17
 -location: "Virtual "
 ---
 
-[Event Link: Faim](https://sites.google.com/view/2021univrdoctoralconference/)
+[Event Link: Mraginalia](https://sites.google.com/view/2021univrdoctoralconference/)
