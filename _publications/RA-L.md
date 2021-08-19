@@ -4,7 +4,7 @@ collection: 'publications'
 permalink: '/publication/RA-L'
 excerpt: 'This paper was presented in the 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE) conference. We build a two step predictive procedure for time sereies forecasting in manufacturing, we use causal discovery and a novel NN architecture named S-TCN to model temporal features'
 date: '2021-07-09'
-venue: 'Conference CASE 2021'
+venue: 'Journal IEEE Robotics and Automation Letters'
 paperurl: 'https://doi.org/10.1109/LRA.2021.3095907'
 citation: 'Giovanni Menegozzo*, Diego Dall’Alba and Paolo Fiorini; <i> IEEE Robotics and Automation Letters ( Volume: 6, Issue: 4, Oct. 2021) </i>.'
 ---
