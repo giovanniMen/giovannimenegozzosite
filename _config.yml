@@ -55,11 +55,11 @@ atom_feed:
 author:
   name             : "Giovanni Menegozzo"
   avatar           : "profile.png"
-  bio              : "I'm a Ph.D. student of the department of excellence for Industry 4.0 in Verona. I aim to bring advanced computer science topics such as machine learning and causal inference in the context of small and medium manufacturing enterprises. I'm currently working with Altair research lab and Local industries "
+  bio              : "I'm a Ph.D. candidate from the University of Verona. Thank you for visiting my site!"
   location         : "Verona (IT)"
   employer         :
   email            :  "giovanni.menegozzo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://scholar.google.com/citations?user=kpS0FlEAAAAJ&hl=it"
   uri              :
   bitbucket        :  
   codepen          :
@@ -71,7 +71,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : " www.linkedin.com/in/menegozzo-giovanni"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
