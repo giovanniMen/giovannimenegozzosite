@@ -51,7 +51,7 @@ Work experience
   
 Skills
 ======
-
+ 
 
 ![Skill](https://raw.githubusercontent.com/giovanniMen/giovannimenegozzosite/master/images/Euler2.png)
 
