@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-From 2015 I work in the [ALTAIR](https://metropolis.scienze.univr.it/) robotics laboratory, I had the opportunity to see different aspects of computer vision: from **virtual reality with a hand tracking device**, to the implementation of cross-platform serious games. During the thesis I became passionate about **neural networks with a focus on temporal modeling**. I carried out this research developing time delay neural network for automatic recognition of collaborative industrial processes. 
+From 2014, I worked in the [ALTAIR](https://metropolis.scienze.univr.it/) robotics laboratory having the opportunity to see different computer vision applications such as **virtual reality with hand tracking device** and cross-platform serious games. During the thesis, I became passionate about **neural networks focusing on temporal modeling**. During my Ph.D., I began to delve into causal inference while maintaining a data-driven approach. Right now, I'm looking to build NN architectures that integrate causality and temporal models. 
 
 
-My Ph.D, supervised by Prof. [Paolo Fiorini](https://scholar.google.com/citations?user=FsovWSkAAAAJ&hl=en), concerns **Industry 4.0** and the development of a decision support system that allows operators to intervene on the machines improving product quality using a data driven approach. Right now, I’m studying causal inference as I am convinced it can describe the way of thinking typical of the manufacturing operators which embed strong causes-effect relationship. 
+I'm supervised by Prof. [Paolo Fiorini](https://scholar.google.com/citations?user=FsovWSkAAAAJ&hl=en) and co-advised by Diego Dall'Alba (https://www.di.univr.it/?ent=persona&id=6321&lang=it). My Ph.D. concerns **Industry 4.0** and I'm part of the ["dipartimento di eccellenza"](https://www.icelab.di.univr.it/). I'm developing a **forecasting** system that improves **product quality** using a data-driven approach. I am convinced that causal inference is a valuable tool to describe the typical thinking of manufacturing operators.
 
 
-**I want to combine my skills on machine learning and new causal discovery methods to get a full description of the industrial plant understanding not only the features of the product but also the interaction between the product and the whole plant, employers included, within a data driven approach**. 
-Possible outcomes of this researches are to reduce the complexity of the plants and allow SME to better respond to customer’s needs, create a coherent schema for in line interventions and finally I hope to improve collaboration between academic research and industry. 
-
+I want to **combine my skills in machine learning and causal discovery** to get a complete description of the industrial plant, understanding not only the features of the product but also the interaction between the product and the whole plant, employers included, within a data-driven approach. 
+Possible outcomes of this research are to reduce the complexity of the plants and allow SMEs to better respond to customers' needs, create a coherent schema for in-line interventions. In addition, I hope to improve collaboration between academic research and industry. 
