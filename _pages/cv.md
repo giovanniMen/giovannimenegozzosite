@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 
-[To request Complete CV please write to giovanni.menegozzo@univr.it](giovanni.menegozzo@univr.it)
+To request Complete CV please write to [giovanni.menegozzo@gmail.com](giovanni.menegozzo@gmail.com)
 
 Education
 ======
 * B.S. in Computer Science, University of Verona, 2015
 * M.S. iin Computer Science (Computer Vision Curriculum), University of Verona 2018
 * State certification exam for Information Engineer, University of Brescia 2019 
-* Ph.D in Industry 4.0, Department of Excellence, University of Verona, 2021 (expected)
+* Ph.D in Industry 4.0, Department of Excellence, University of Verona, 2022 (expected)
 
 Work experience
 ======
 * March 2020 – Ongoing	
-	* Project-based contract with Mafin.Srl Snack Pellets manufacturing, Padua (IT).
+	* Consultant with Mafin.Srl Snack Pellets manufacturing, Padua (IT).
 
 * June 2019 – March 2020 Internship
 	* Intership at Mafin.Srl Snack Pellets manufacturing, Padua (IT).
@@ -51,14 +51,9 @@ Work experience
   
 Skills
 ======
-* Virtual reality
-	* Oculus rift, leap motion, Unity 3D, Android, C#
-* Machine Learning
-	* Keras, Pyhon, Tensorflow, Pandas, Matlab...
-* Robotic
-	* Ros, Collaborative Robots
 
-![Skill](https://raw.githubusercontent.com/giovanniMen/giovannimenegozzosite/master/images/Euler.png)
+
+![Skill](https://raw.githubusercontent.com/giovanniMen/giovannimenegozzosite/master/images/Euler2.png)
 
 Publications
 ======
