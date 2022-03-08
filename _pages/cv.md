@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-To request Complete CV please write to [giovanni.menegozzo@gmail.com](giovanni.menegozzo@gmail.com)
+To request CV please write to *giovanni.menegozzo@gmail.com
 
 Education
 ======
