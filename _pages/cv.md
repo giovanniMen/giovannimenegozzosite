@@ -11,7 +11,7 @@ redirect_from:
 
 
 Some data are missing for privacy. To request full CV please write to giovanni.menegozzo@gmail.com
-![Download Italian](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/images/CV_Giovi_ItaBlurred.pdf)
+- ![Download Italian](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/images/CV_Giovi_ItaBlurred.pdf)
 - ![Download English](https://github.com/giovanniMen/giovannimenegozzosite/blob/master/images/CV_Giovi_english_engineerBlurred.pdf)
 
 Education
