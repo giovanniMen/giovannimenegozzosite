@@ -19,11 +19,13 @@ Education
 * B.S. in Computer Science, University of Verona, 2015
 * M.S. iin Computer Science (Computer Vision Curriculum), University of Verona 2018
 * State certification exam for Information Engineer, University of Brescia 2019 
-* Ph.D in Industry 4.0, Department of Excellence, University of Verona, 2022 (expected)
+* Ph.D in Industry 4.0, Department of Excellence, University of Verona, 2022 
 
 Work experience
 ======
-* March 2020 – Ongoing	
+* Nov 2022 – Ongoing	
+	* ML specialsit with GlassForm.ai, Rovereto (IT).
+* March 2020 – 2022	
 	* Consultant with Mafin.Srl Snack Pellets manufacturing, Padua (IT).
 
 * June 2019 – March 2020 Internship
@@ -55,7 +57,7 @@ Skills
 ======
  
 
-![Skill](https://raw.githubusercontent.com/giovanniMen/giovannimenegozzosite/master/images/Euler2.png)
+![Skill](https://raw.githubusercontent.com/giovanniMen/giovannimenegozzosite/master/images/skill_graph.png)
 
 Publications
 ======
